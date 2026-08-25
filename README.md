@@ -112,12 +112,14 @@ The dashboard helps identify:
 
 ### Executive Dashboard
 
-![Executive Dashboard]("C:\Users\Sadhana\OneDrive\Pictures\executive-dashboard.png")
+<img width="1920" height="1080" alt="executive-dashboard" src="https://github.com/user-attachments/assets/8672081d-649a-4dac-b684-ba37b47abbb7" />
 
 ### Product Analysis
 
-![Product Analysis]("C:\Users\Sadhana\OneDrive\Pictures\product-analysis.png")
+<img width="1920" height="1080" alt="product-analysis" src="https://github.com/user-attachments/assets/2d566e34-a6e5-4ee5-a213-93db2eb276e0" />
+
 
 ### Customer & Regional Analysis
 
-![Customer Regional Analysis]("C:\Users\Sadhana\OneDrive\Pictures\customer-regional-analysis.png")
+<img width="1920" height="1080" alt="customer-regional-analysis" src="https://github.com/user-attachments/assets/54f6f6c9-9d9a-42c4-90a1-3d8652c6cf56" />
+
